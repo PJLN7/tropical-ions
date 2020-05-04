@@ -1,0 +1,25 @@
+#signin_container {
+  background: white;
+  width: 100%;
+  height: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  text-align: center;
+}
+
+#signin_container h1 {
+  padding: 20px;
+  margin: 0 auto;
+  color: white;
+  background: #4285f4;
+  border: 5px solid white;
+  border-radius: 5px;
+}
+
+#signin_content {
+  margin: 40px auto;
+}
+
+#signin_content h2 {
+  margin-bottom: 30px;
+}
